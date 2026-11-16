@@ -1,6 +1,6 @@
 ## OPLUS-QQCandy-Dev - Personal extras
 
-This organization contains repositories to build AOSP / LineageOS 24 ROMs for
+This organization contains repositories to build AOSP/LineageOS ROMs for
 **OnePlus Ace Racing Edition (PGZ110)** and **OPPO K10 (PGJM10)** on the
 MediaTek MT6895 `qqcandy` platform.
 
