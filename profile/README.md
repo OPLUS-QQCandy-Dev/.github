@@ -32,7 +32,7 @@ kept.
 
 ### Build
 ```bash
-lunch lineage_qqcandy-userdebug
+lunch lineage_qqcandy-trunk_staging-userdebug
 mka bacon -j12
 ```
 
