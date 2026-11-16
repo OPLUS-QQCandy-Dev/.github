@@ -1,6 +1,6 @@
-## OPLUS-QQCandy-Dev - Personal extras
+## OPLUS-QQCandy-Dev
 
-This organization contains repositories to build AOSP/LineageOS ROMs for
+This organization contains repositories to build AOSP / LineageOS 24 ROMs for
 **OnePlus Ace Racing Edition (PGZ110)** and **OPPO K10 (PGJM10)** on the
 MediaTek MT6895 `qqcandy` platform.
 
@@ -33,11 +33,11 @@ kept.
 ### Build
 ```bash
 lunch lineage_qqcandy-userdebug
-mka bacon -j$(nproc)
+mka bacon -j12
 ```
 
 Expanded `super` only:
 
 ```bash
-QQCANDY_EXPANDED_SUPER=true mka bacon -j$(nproc)
+QQCANDY_EXPANDED_SUPER=true mka bacon -j12
 ```
