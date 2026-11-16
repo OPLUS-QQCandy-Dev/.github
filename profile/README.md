@@ -13,7 +13,7 @@ kept.
 * [**Prebuilt Kernel**](https://github.com/OPLUS-QQCandy-Dev/android_device_oplus_mt6895-kernel.git) (`android_device_oplus_mt6895-kernel`)
 
 ### OnePlus Ace Racing Edition (PGZ110)
-<img width="260" src="https://raw.githubusercontent.com/OPLUS-QQCandy-Dev/.github/lineage-24.0/profile/ace-racing.png" alt="OnePlus Ace Racing Edition">
+<img width="260" src="https://raw.githubusercontent.com/OPLUS-QQCandy-Dev/.github/lineage-24.0/profile/ace-racing.png?v=2" alt="OnePlus Ace Racing Edition">
 
 ### OPPO K10 (PGJM10)
 <img width="260" src="https://raw.githubusercontent.com/OPLUS-QQCandy-Dev/.github/lineage-24.0/profile/oppo-k10.png" alt="OPPO K10">
